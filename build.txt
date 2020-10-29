@@ -1,0 +1,10 @@
+82 INFO: PyInstaller: 4.0
+84 INFO: Python: 3.7.3 (conda)
+84 INFO: Platform: Windows-7-6.1.7601-SP1
+85 INFO: wrote C:\Users\FreHernd\Desktop\twt\Analisis_sentimientos_Twitter\twt.spec
+85 DEBUG: Testing for UPX ...
+----------------------------------------
+Error running 'upx -V':
+[WinError 6] Controlador no válido
+----------------------------------------
+Error: Executing command failed!
